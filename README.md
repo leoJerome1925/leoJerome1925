@@ -26,7 +26,7 @@ Design Excel VBA automation for recurring reports and data consolidation
 
 Reduce manual operational effort by 80–90% through smart automation
 
-📌 Featured Projects
+📌 Featured Projects & Publications
 
 Automated Node Health Check & Reporting Tool
 Shell + Expect based SSH automation with Excel reporting (80% effort reduction)
@@ -41,6 +41,11 @@ Retail analytics dashboard covering sales, delivery efficiency, ratings, and reg
 Data Analysis Projects (Python, SQL, Excel)
 Hands-on projects using Pandas, Northwind DB, AirlineDB, and retail datasets
 
+Shor’s Algorithm (5-Qubit Implementation) – IEEE Publication
+Implemented Shor’s Algorithm using Python and IBM Qiskit to factor 15 and 21 with reduced quantum cost.
+🏆 Awarded Best Paper & Best Presentation
+🔗 https://ieeexplore.ieee.org/document/9686492
+
 🧰 Tech Stack
 
 Languages & Scripting: Python, Shell, Expect, SQL
@@ -53,3 +58,5 @@ Concepts: Data Analysis, Automation, Reporting, Statistics, Data Modeling
 📧 Email: leo982243@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/leo-jerome/
+
+⭐ This GitHub showcases my work across automation engineering, data analytics, and applied research, including scripts, dashboards, and published work.
