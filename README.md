@@ -1,4 +1,7 @@
-👋 Hi, I’m Leo Benhur Jerome
+# 👋 Hi, I’m Leo Benhur Jerome
+
+## Automation Engineer @ Vodafone Idea (VI)
+## SQL | Shell | Python | Excel | Power BI | Expect
 
 Automation Engineer at Vodafone Idea (VI) with strong experience in automation scripting, data analytics, and reporting solutions. I specialize in building scalable automation tools, data-driven dashboards, and analytical workflows that reduce manual effort and improve operational efficiency.
 
