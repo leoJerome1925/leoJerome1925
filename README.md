@@ -5,7 +5,7 @@
 
 Automation Engineer at Vodafone Idea (VI) with strong experience in automation scripting, data analytics, and reporting solutions. I specialize in building scalable automation tools, data-driven dashboards, and analytical workflows that reduce manual effort and improve operational efficiency.
 
-🔍 About Me
+ ### 🔍 About Me
 
 💼 Automation Engineer @ Vodafone Idea (VI)
 
@@ -17,7 +17,7 @@ Automation Engineer at Vodafone Idea (VI) with strong experience in automation s
 
 ⚙️ Passionate about automating repetitive processes and transforming data into actionable insights
 
-🚀 What I Do
+### 🚀 What I Do
 
 Automate infrastructure checks, reporting, and OSS workflows using Shell, Expect, and Python
 
@@ -29,7 +29,7 @@ Design Excel VBA automation for recurring reports and data consolidation
 
 Reduce manual operational effort by 80–90% through smart automation
 
-📌 Featured Projects & Publications
+### 📌 Featured Projects & Publications
 
 Automated Node Health Check & Reporting Tool
 Shell + Expect based SSH automation with Excel reporting (80% effort reduction)
@@ -49,14 +49,19 @@ Implemented Shor’s Algorithm using Python and IBM Qiskit to factor 15 and 21 w
 🏆 Awarded Best Paper & Best Presentation
 🔗 https://ieeexplore.ieee.org/document/9686492
 
-🧰 Tech Stack
+### 🧰 Tech Stack
 
-Languages & Scripting: Python, Shell, Expect, SQL
-Data & BI: Power BI, DAX, Excel (Macros, Pivot Tables), Power Query
-Databases: PostgreSQL, MySQL
-Concepts: Data Analysis, Automation, Reporting, Statistics, Data Modeling
+🗄️ SQL (PostgreSQL, MySQL)
 
-📫 Connect With Me
+🐍 Python (Automation, Data Analysis)
+
+🖥️ Shell / Bash & Expect
+
+📊 Power BI (DAX, Data Modeling)
+
+📈 Excel (Macros, Pivot Tables, VBA, Power Query)
+
+### 📫 Connect With Me
 
 📧 Email: leo982243@gmail.com
 
