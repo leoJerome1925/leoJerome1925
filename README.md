@@ -1,16 +1,55 @@
-## Hi there 👋
+👋 Hi, I’m Leo Benhur Jerome
 
-<!--
-**leoJerome1925/leoJerome1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer at Vodafone Idea (VI) with strong experience in automation scripting, data analytics, and reporting solutions. I specialize in building scalable automation tools, data-driven dashboards, and analytical workflows that reduce manual effort and improve operational efficiency.
 
-Here are some ideas to get you started:
+🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Automation Engineer @ Vodafone Idea (VI)
+
+🎓 M.Tech in Artificial Intelligence
+
+🛠 Experienced in Shell, Python, SQL, Excel, Power BI, Expect
+
+📊 Strong background in data analysis, reporting automation, and dashboarding
+
+⚙️ Passionate about automating repetitive processes and transforming data into actionable insights
+
+🚀 What I Do
+
+Automate infrastructure checks, reporting, and OSS workflows using Shell, Expect, and Python
+
+Build Power BI dashboards with DAX and optimized data models for business insights
+
+Perform SQL-based analysis on large datasets to identify trends and KPIs
+
+Design Excel VBA automation for recurring reports and data consolidation
+
+Reduce manual operational effort by 80–90% through smart automation
+
+📌 Featured Projects
+
+Automated Node Health Check & Reporting Tool
+Shell + Expect based SSH automation with Excel reporting (80% effort reduction)
+
+OSS Node Backup Automation System
+Python + Paramiko + SQL solution for automated configuration backups
+
+ShopNest Store Analytics Dashboard (Power BI)
+Retail analytics dashboard covering sales, delivery efficiency, ratings, and regional trends
+🔗 https://github.com/leoJerome1925/ShopNest-Stores-Dashboard
+
+Data Analysis Projects (Python, SQL, Excel)
+Hands-on projects using Pandas, Northwind DB, AirlineDB, and retail datasets
+
+🧰 Tech Stack
+
+Languages & Scripting: Python, Shell, Expect, SQL
+Data & BI: Power BI, DAX, Excel (Macros, Pivot Tables), Power Query
+Databases: PostgreSQL, MySQL
+Concepts: Data Analysis, Automation, Reporting, Statistics, Data Modeling
+
+📫 Connect With Me
+
+📧 Email: leo982243@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/leo-jerome/
