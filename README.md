@@ -31,20 +31,20 @@ Reduce manual operational effort by 80–90% through smart automation
 
 ### 📌 Featured Projects & Publications
 
-Automated Node Health Check & Reporting Tool
+#### Automated Node Health Check & Reporting Tool
 Shell + Expect based SSH automation with Excel reporting (80% effort reduction)
 
-OSS Node Backup Automation System
+#### OSS Node Backup Automation System
 Python + Paramiko + SQL solution for automated configuration backups
 
-ShopNest Store Analytics Dashboard (Power BI)
+#### ShopNest Store Analytics Dashboard (Power BI)
 Retail analytics dashboard covering sales, delivery efficiency, ratings, and regional trends
 🔗 https://github.com/leoJerome1925/ShopNest-Stores-Dashboard
 
-Data Analysis Projects (Python, SQL, Excel)
+#### Data Analysis Projects (Python, SQL, Excel)
 Hands-on projects using Pandas, Northwind DB, AirlineDB, and retail datasets
 
-Shor’s Algorithm (5-Qubit Implementation) – IEEE Publication
+#### Shor’s Algorithm (5-Qubit Implementation) – IEEE Publication
 Implemented Shor’s Algorithm using Python and IBM Qiskit to factor 15 and 21 with reduced quantum cost.
 🏆 Awarded Best Paper & Best Presentation
 🔗 https://ieeexplore.ieee.org/document/9686492
