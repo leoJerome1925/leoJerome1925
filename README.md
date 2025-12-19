@@ -51,15 +51,17 @@ Implemented Shor’s Algorithm using Python and IBM Qiskit to factor 15 and 21 w
 
 ### 🧰 Tech Stack
 
-🗄️ SQL (PostgreSQL, MySQL)
+🧰 Tech Stack
 
-🐍 Python (Automation, Data Analysis)
+🗄️ SQL: PostgreSQL, MySQL, Joins, CTEs, Window Functions, Subqueries, KPI Analysis
 
-🖥️ Shell / Bash & Expect
+🐍 Python: Pandas, Paramiko, Data Cleaning, Data Transformation, Automation Scripts
 
-📊 Power BI (DAX, Data Modeling)
+🖥️ Shell / Bash & Expect: SSH Automation, Log Analysis, Cron Jobs, Linux Scripting
 
-📈 Excel (Macros, Pivot Tables, VBA, Power Query)
+📊 Power BI: DAX, Power Query, Data Modeling, Data Visualization, Dashboarding
+
+📈 Excel: VBA, Macros, Pivot Tables, Power Query, Advanced Formulas, Reporting Automation
 
 ### 📫 Connect With Me
 
