@@ -29,6 +29,17 @@ Design Excel VBA automation for recurring reports and data consolidation
 
 Reduce manual operational effort by 80–90% through smart automation
 
+### 🧑‍💻 Work Experience
+
+#### 💼 Automation Engineer @ Vodafone Idea (VI)
+Built automation solutions using Shell, Python, SQL, Excel, and Expect for infrastructure checks, OSS workflows, reporting, and backups, reducing manual effort by 80–90%.
+
+#### 🏢 Intern @ Nissan Digital LLP
+Supported software evaluation and SDLC automation using Excel, Pivot Tables, and Macros, improving evaluation efficiency and reporting accuracy.
+
+#### 🤝 Technical Recruiter @ Dexian – DISYS
+Worked on technical hiring for IT and data roles, gaining strong understanding of technical skill requirements and recruitment workflows.
+
 ### 📌 Featured Projects & Publications
 
 #### Automated Node Health Check & Reporting Tool
